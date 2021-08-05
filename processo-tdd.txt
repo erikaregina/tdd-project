@@ -1,0 +1,1 @@
+No processo, devemos escrever um teste funcional, rodá-lo e verificar se falha. Se falhar, escrevemos algum código da aplicação e aplicamos o ciclo TDD comum. Em seguida rodamos o teste funcional novamente e repetimos o ciclo até o teste passar. Adicionalmente, podemos refatorar nosso código, utilizando sempre o teste para garantir que não quebramos nada.
