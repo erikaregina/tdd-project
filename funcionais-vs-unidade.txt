@@ -1,0 +1,3 @@
+1 - Testes de unidade testam pequenas unidades de código (ex: classes) que são testadas de forma isolada. Testes funcionais testam uma funcionalidade em um sistema, o que pode envolver vários métodos e interagir com dependências como bancos de dados ou serviços da Web.
+
+2 - Testes de unidade são escritos com o conhecimento do código (caixa branca). Testes funcionais são escritos sem o conhecimento do código (caixa preta).
